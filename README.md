@@ -1,6 +1,6 @@
 # Cartas de Atributo
-# Universidade de Brasília (UnB)
-# Aluna: 
+Universidade de Brasília (UnB)
+Aluna: 
 Luiza Helena Oliveira de Lucena
-# Professor:
+Professor:
 Dr. Andre Luiz Marques Serrano
